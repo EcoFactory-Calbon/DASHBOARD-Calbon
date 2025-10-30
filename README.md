@@ -60,12 +60,13 @@ O dashboard é dividido em **duas seções principais** — 🏢 **Empresa** e �
 
 | Categoria | Cores |
 |:----------:|:------|
-| **Tons Azuis** | ![#0CACBF](https://via.placeholder.com/15/0CACBF/0CACBF.png) `#0CACBF` <br> ![#1199A9](https://via.placeholder.com/15/1199A9/1199A9.png) `#1199A9` <br> ![#007684](https://via.placeholder.com/15/007684/007684.png) `#007684` <br> ![#005A65](https://via.placeholder.com/15/005A65/005A65.png) `#005A65` <br> ![#00353C](https://via.placeholder.com/15/00353C/00353C.png) `#00353C` <br> ![#00272C](https://via.placeholder.com/15/00272C/00272C.png) `#00272C` |
-| **Tons Roxos (Mobile)** | ![#9B84EC](https://via.placeholder.com/15/9B84EC/9B84EC.png) `#9B84EC` <br> ![#2C0532](https://via.placeholder.com/15/2C0532/2C0532.png) `#2C0532` |
-| **Tons Brancos** | ![#FFFFFF](https://via.placeholder.com/15/FFFFFF/FFFFFF.png) `#FFFFFF` |
-| **Tons Pretos** | ![#07101C](https://via.placeholder.com/15/07101C/07101C.png) `#07101C` <br> ![#000000](https://via.placeholder.com/15/000000/000000.png) `#000000` |
+| **Tons Azuis** | ![0CACBF](https://img.shields.io/badge/-0CACBF-0CACBF?style=for-the-badge&logoColor=white) ![1199A9](https://img.shields.io/badge/-1199A9-1199A9?style=for-the-badge&logoColor=white) ![007684](https://img.shields.io/badge/-007684-007684?style=for-the-badge&logoColor=white) ![005A65](https://img.shields.io/badge/-005A65-005A65?style=for-the-badge&logoColor=white) ![00353C](https://img.shields.io/badge/-00353C-00353C?style=for-the-badge&logoColor=white) ![00272C](https://img.shields.io/badge/-00272C-00272C?style=for-the-badge&logoColor=white) |
+| **Tons Roxos (Mobile)** | ![9B84EC](https://img.shields.io/badge/-9B84EC-9B84EC?style=for-the-badge&logoColor=white) ![2C0532](https://img.shields.io/badge/-2C0532-2C0532?style=for-the-badge&logoColor=white) |
+| **Tons Brancos** | ![FFFFFF](https://img.shields.io/badge/-FFFFFF-FFFFFF?style=for-the-badge&logoColor=black) |
+| **Tons Pretos** | ![07101C](https://img.shields.io/badge/-07101C-07101C?style=for-the-badge&logoColor=white) ![000000](https://img.shields.io/badge/-000000-000000?style=for-the-badge&logoColor=white) |
 
 > 🎨 **Nota:** Os **tons roxos** são usados exclusivamente na **visualização mobile**, conforme o **design do Figma da Calbon**.
+
 
 ---
 
