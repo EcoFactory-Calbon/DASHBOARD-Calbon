@@ -58,55 +58,14 @@ O dashboard é dividido em **duas seções principais** — 🏢 **Empresa** e �
 
 ## 🎨 Paleta de Cores Utilizadas
 
-<table>
-  <tr>
-    <th>Categoria</th>
-    <th>Cores</th>
-  </tr>
-  <tr>
-    <td><b>Tons Azuis</b></td>
-    <td>
-      <div style="display:flex; gap:6px;">
-        <div style="background:#0CACBF; width:60px; height:25px; border-radius:8px; text-align:center; color:white; font-family:monospace;">0CACBF</div>
-        <div style="background:#1199A9; width:60px; height:25px; border-radius:8px; text-align:center; color:white; font-family:monospace;">1199A9</div>
-        <div style="background:#007684; width:60px; height:25px; border-radius:8px; text-align:center; color:white; font-family:monospace;">007684</div>
-        <div style="background:#005A65; width:60px; height:25px; border-radius:8px; text-align:center; color:white; font-family:monospace;">005A65</div>
-        <div style="background:#00353C; width:60px; height:25px; border-radius:8px; text-align:center; color:white; font-family:monospace;">00353C</div>
-        <div style="background:#00272C; width:60px; height:25px; border-radius:8px; text-align:center; color:white; font-family:monospace;">00272C</div>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Tons Roxos (Mobile)</b></td>
-    <td>
-      <div style="display:flex; gap:6px;">
-        <div style="background:#9B84EC; width:60px; height:25px; border-radius:8px; text-align:center; color:white; font-family:monospace;">9B84EC</div>
-        <div style="background:#2C0532; width:60px; height:25px; border-radius:8px; text-align:center; color:white; font-family:monospace;">2C0532</div>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Tons Brancos</b></td>
-    <td>
-      <div style="display:flex; gap:6px;">
-        <div style="background:#FFFFFF; width:60px; height:25px; border-radius:8px; border:1px solid #ccc; text-align:center; color:#000; font-family:monospace;">FFFFFF</div>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Tons Pretos</b></td>
-    <td>
-      <div style="display:flex; gap:6px;">
-        <div style="background:#07101C; width:60px; height:25px; border-radius:8px; text-align:center; color:white; font-family:monospace;">07101C</div>
-        <div style="background:#000000; width:60px; height:25px; border-radius:8px; text-align:center; color:white; font-family:monospace;">000000</div>
-      </div>
-    </td>
-  </tr>
-</table>
+| Categoria | Cores |
+|:--------:|:-----|
+| **Tons Azuis** | ![0CACBF](https://img.shields.io/badge/-0CACBF-0CACBF?style=for-the-badge&logoColor=white) ![1199A9](https://img.shields.io/badge/-1199A9-1199A9?style=for-the-badge&logoColor=white) ![007684](https://img.shields.io/badge/-007684-007684?style=for-the-badge&logoColor=white) ![005A65](https://img.shields.io/badge/-005A65-005A65?style=for-the-badge&logoColor=white) ![00353C](https://img.shields.io/badge/-00353C-00353C?style=for-the-badge&logoColor=white) ![00272C](https://img.shields.io/badge/-00272C-00272C?style=for-the-badge&logoColor=white) |
+| **Tons Roxos (Mobile)** | ![9B84EC](https://img.shields.io/badge/-9B84EC-9B84EC?style=for-the-badge&logoColor=white) ![2C0532](https://img.shields.io/badge/-2C0532-2C0532?style=for-the-badge&logoColor=white) |
+| **Tons Brancos** | ![FFFFFF](https://img.shields.io/badge/-FFFFFF-FFFFFF?style=for-the-badge&logoColor=black) |
+| **Tons Pretos** | ![07101C](https://img.shields.io/badge/-07101C-07101C?style=for-the-badge&logoColor=white) ![000000](https://img.shields.io/badge/-000000-000000?style=for-the-badge&logoColor=white) |
 
-> 🎨 **Nota:** Os **tons roxos** são usados exclusivamente na **visualização mobile**, conforme o **design do Figma da Calbon**.
-
-
+> 🎨 **Nota:** Os badges do `img.shields.io` são estilos em formato "badge/pill" (cantinhos arredondados) e funcionam bem no GitHub e no VSCode Preview. Se preferir blocos maiores com texto interno (ex.: `0CACBF` centralizado), digo qual tamanho ajustar e gero a versão com badges maiores.
 
 ---
 
