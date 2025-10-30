@@ -1,30 +1,40 @@
-# 📊 Dashboard Calbon
-
-O **Dashboard Calbon** foi desenvolvido a partir dos dados de **empresas** e **funcionários** presentes no banco de dados SQL da Calbon.  
-Seu principal objetivo é **gerenciar e analisar informações empresariais e de colaboradores**, auxiliando na tomada de decisões estratégicas sobre os próximos passos da empresa.
-
-O dashboard é dividido em duas partes principais — **Empresa** e **Funcionário** —, permitindo uma análise detalhada e individual de cada um desses contextos.
+<h1 align="center">📊 Dashboard Calbon</h1>
 
 ---
 
-## 🗂️ Tabelas utilizadas na análise
-- 🏢 **empresa**  
-- 👨‍💼 **funcionario**  
-- 📍 **localizacao**  
-- 🏭 **setor**  
-- 🏷️ **categoria_empresa**  
-- 💼 **cargo**
+## 🧠 Sobre o Projeto
+
+O **Dashboard Calbon** foi desenvolvido a partir dos dados de **empresas** e **funcionários** armazenados no banco de dados **SQL da Calbon**.  
+Seu objetivo é **gerenciar e analisar informações corporativas e de colaboradores**, apoiando **decisões estratégicas** sobre o futuro da empresa.  
+
+O dashboard é dividido em **duas seções principais** — 🏢 **Empresa** e 👥 **Funcionário** —, possibilitando uma **análise detalhada** de cada contexto.
+
+---
+
+## 🗂️ Tabelas Utilizadas
+
+| Tabela | Descrição |
+|:-------|:-----------|
+| 🏢 **empresa** | Dados cadastrais das empresas |
+| 👨‍💼 **funcionario** | Informações dos colaboradores |
+| 📍 **localizacao** | Endereços e estados das empresas |
+| 🏭 **setor** | Setor de atuação empresarial |
+| 🏷️ **categoria_empresa** | Classificação das empresas |
+| 💼 **cargo** | Cargos e funções dos funcionários |
 
 ---
 
 ## 🏢 Análises — Empresa
-- 📊 **Gráfico de Barras:** Quantidade de empresas por estado  
-- 📈 **Gráfico de Área:** Quantidade de empresas por categoria  
-- 💬 **Cartão:** Total de empresas cadastradas  
-- 🧮 **Tabela Dinâmica:** Empresas divididas por categoria  
-- 🗺️ **Mapa:** Localização das empresas no território nacional  
 
-### 🔍 Filtros disponíveis:
+| Tipo de Análise | Descrição |
+|------------------|------------|
+| 📊 **Gráfico de Barras** | Quantidade de empresas por estado |
+| 📈 **Gráfico de Área** | Quantidade de empresas por categoria |
+| 💬 **Cartão** | Total de empresas cadastradas |
+| 🧮 **Tabela Dinâmica** | Empresas divididas por categoria |
+| 🗺️ **Mapa** | Localização das empresas no território nacional |
+
+### 🔍 Filtros Disponíveis:
 - Categoria da Empresa  
 - Nome da Empresa  
 - Estado  
@@ -32,15 +42,14 @@ O dashboard é dividido em duas partes principais — **Empresa** e **Funcionár
 ---
 
 ## 👥 Análises — Funcionário
-- 📈 **Gráfico de Área:** Quantidade de funcionários por cidade  
-- 🧾 **Cartões informativos:**  
-  - 👔 Quantidade de **gestores**  
-  - 🧑‍💼 Quantidade de **não gestores**  
-  - 📊 Percentual de **gestores** e **não gestores**  
-  - 👥 Quantidade **total de funcionários**  
-- 🗺️ **Mapa:** Distribuição geográfica dos funcionários  
 
-### 🔍 Filtros disponíveis:
+| Tipo de Análise | Descrição |
+|------------------|------------|
+| 📈 **Gráfico de Área** | Quantidade de funcionários por cidade |
+| 🧾 **Cartões Informativos** | 👔 Total de **gestores** <br> 🧑‍💼 Total de **não gestores** <br> 📊 Percentual de cada grupo <br> 👥 Quantidade **total de funcionários** |
+| 🗺️ **Mapa** | Distribuição geográfica dos funcionários |
+
+### 🔍 Filtros Disponíveis:
 - Nome do Funcionário  
 - Cargo  
 - Estado  
@@ -56,17 +65,22 @@ O dashboard é dividido em duas partes principais — **Empresa** e **Funcionár
 | **Tons Brancos** | ![#FFFFFF](https://via.placeholder.com/15/FFFFFF/FFFFFF.png) `#FFFFFF` |
 | **Tons Pretos** | ![#07101C](https://via.placeholder.com/15/07101C/07101C.png) `#07101C` <br> ![#000000](https://via.placeholder.com/15/000000/000000.png) `#000000` |
 
-> 💡 **Nota:** Os tons roxos são utilizados exclusivamente na **visualização mobile**, conforme o design do Figma da Calbon.
+> 🎨 **Nota:** Os **tons roxos** são usados exclusivamente na **visualização mobile**, conforme o **design do Figma da Calbon**.
 
 ---
 
 ## 🔗 Links Importantes
 
-📐 [Design no Figma](https://www.figma.com/design/Qf8O3BndHIXPBJQ8RGorik/Calbon?node-id=1-2&p=f&t=KmgTbgTImpu7Fm83-0)  
-📊 [Dashboard Público no Power BI](https://app.powerbi.com/view?r=eyJrIjoiNWJiMWMzNmQtNGFjYi00MTU3LWI4NzgtNmRhY2RiMGQ5ZThkIiwidCI6ImIxNDhmMTRjLTIzOTctNDAyYy1hYjZhLTFiNDcxMTE3N2FjMCJ9)
+📐 [**Design no Figma**](https://www.figma.com/design/Qf8O3BndHIXPBJQ8RGorik/Calbon?node-id=1-2&p=f&t=KmgTbgTImpu7Fm83-0)  
+📊 [**Dashboard Público no Power BI**](https://app.powerbi.com/view?r=eyJrIjoiNWJiMWMzNmQtNGFjYi00MTU3LWI4NzgtNmRhY2RiMGQ5ZThkIiwidCI6ImIxNDhmMTRjLTIzOTctNDAyYy1hYjZhLTFiNDcxMTE3N2FjMCJ9)
 
 ---
 
 ## ⚖️ Licença
 
-Este projeto está licenciado sob a [Licença MIT](https://choosealicense.com/licenses/mit/).
+Este projeto está sob a licença [**MIT**](https://choosealicense.com/licenses/mit/).  
+Sinta-se livre para **usar, modificar e compartilhar** com os devidos créditos. 💙
+
+---
+
+<h3 align="center">✨ Desenvolvido para a Calbon — dados que impulsionam decisões inteligentes 📈</h3>
