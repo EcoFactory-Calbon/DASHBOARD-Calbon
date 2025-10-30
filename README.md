@@ -65,7 +65,7 @@ O dashboard é dividido em **duas seções principais** — 🏢 **Empresa** e �
 | **Tons Brancos** | ![FFFFFF](https://img.shields.io/badge/-FFFFFF-FFFFFF?style=for-the-badge&logoColor=black) |
 | **Tons Pretos** | ![07101C](https://img.shields.io/badge/-07101C-07101C?style=for-the-badge&logoColor=white) ![000000](https://img.shields.io/badge/-000000-000000?style=for-the-badge&logoColor=white) |
 
-> 🎨 **Nota:** Os badges do `img.shields.io` são estilos em formato "badge/pill" (cantinhos arredondados) e funcionam bem no GitHub e no VSCode Preview. Se preferir blocos maiores com texto interno (ex.: `0CACBF` centralizado), digo qual tamanho ajustar e gero a versão com badges maiores.
+> 🎨 **Nota:** Os tons roxos são utilizados somente na versão mobile do dashboard devido ao layout de dashboard para mobile no figma.
 
 ---
 
