@@ -45,7 +45,7 @@ O dashboard é dividido em **duas seções principais** — 🏢 **Empresa** e �
 
 | Tipo de Análise | Descrição |
 |------------------|------------|
-| 📈 **Gráfico de Área** | Quantidade de funcionários por cidade |
+| 📈 **Gráfico de Área** | Quantidade de funcionários trabalhando em cada estado |
 | 🧾 **Cartões Informativos** | 👔 Total de **gestores** <br> 🧑‍💼 Total de **não gestores** <br> 📊 Percentual de cada grupo <br> 👥 Quantidade **total de funcionários** |
 | 🗺️ **Mapa** | Distribuição geográfica dos funcionários |
 
@@ -97,13 +97,7 @@ Seu objetivo é **gerenciar e analisar informações relacionadas a notas, visit
 |------------------|------------|
 | 📊 **Gráfico de Barras** | Distribuição das avaliações por categoria |
 | 📈 **Tabela Dinâmica** | Média de Avaliação por Avaliador |
-| 💬 **Cartão** | Média da nota de apresentação do projeto |
-| 💬 **Cartão 2** | Média da nota de apresentação do stand |
-| 💬 **Cartão 3** | Média da nota de ideia usada |
-| 💬 **Cartão 4** | Média da nota de solução desenvolvida |
-| 💬 **Cartão 5** | Média geral das notas |
-| 💬 **Cartão 6** | Média geral das avaliações |
-| 💬 **Cartão 7** | Quantidade de visitas |
+| 💬 **Cartões Informativos** | Média da nota de apresentação do projeto <br> Média da nota de apresentação do stand <br> Média da nota de ideia usada <br> Média da nota de solução desenvolvida <br> Média geral das notas <br> Média geral das avaliações <br> Quantidade de visitas |
 
 ### 🔍 Filtros Disponíveis:
 - Categoria
