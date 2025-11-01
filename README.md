@@ -144,7 +144,7 @@ Seu objetivo é **gerenciar e analisar informações relacionadas a notas, visit
 ## 🔗 Links Importantes
 
 📐 [**Design no Figma**](https://www.figma.com/design/Qf8O3BndHIXPBJQ8RGorik/Calbon?node-id=1-2&p=f&t=KmgTbgTImpu7Fm83-0)  
-📊 [**Dashboard Calbon Público no Power BI**](https://app.powerbi.com/view?r=eyJrIjoiNWJiMWMzNmQtNGFjYi00MTU3LWI4NzgtNmRhY2RiMGQ5ZThkIiwidCI6ImIxNDhmMTRjLTIzOTctNDAyYy1hYjZhLTFiNDcxMTE3N2FjMCJ9)
+📊 [**Dashboard Calbon Público no Power BI**](https://app.powerbi.com/view?r=eyJrIjoiNWJiMWMzNmQtNGFjYi00MTU3LWI4NzgtNmRhY2RiMGQ5ZThkIiwidCI6ImIxNDhmMTRjLTIzOTctNDAyYy1hYjZhLTFiNDcxMTE3N2FjMCJ9) \
 📶 [**Dashboard Feira Público no Power BI**](https://app.powerbi.com/view?r=eyJrIjoiNDZiMTE1MzAtN2VmYS00MDA0LWE5MTAtMzNiMDQxNzc5ZGUwIiwidCI6ImIxNDhmMTRjLTIzOTctNDAyYy1hYjZhLTFiNDcxMTE3N2FjMCJ9)
 
 ---
