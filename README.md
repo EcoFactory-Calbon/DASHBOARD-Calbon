@@ -52,7 +52,77 @@ O dashboard é dividido em **duas seções principais** — 🏢 **Empresa** e �
 ### 🔍 Filtros Disponíveis:
 - Nome do Funcionário  
 - Cargo  
-- Estado  
+- Estado
+
+---
+
+## 🧮 Medidas Presentes
+
+| Medida | 
+|------------------|
+| 📛 **Quantidade de funcionários Não Gestores** |  
+| ✅ **Quantidade de funcionários Gestores** | 
+| 📊 **Percentual de funcionários Não Gestores** | 
+| 📶 **Percentual de funcionários Gestores** | 
+
+---
+
+<h1 align="center">📊 Dashboard Feira</h1>
+
+---
+
+## 🧠 Sobre o Dashboard
+
+O **Dashboard Feira** foi desenvolvido a partir dos dados da **api** de **mongo** desenvolvida pelo terceiro ano TECH.  
+Seu objetivo é **gerenciar e analisar informações relacionadas a notas, visitantes e avaliações**.  
+
+---
+
+## 🗂️ Campos presentes na tabela - **`grades_df`**
+
+| Campo | Descrição |
+|:-------|:-----------|
+| ✅ **grade_name** | Nome da Categoria a ser avaliada |
+| 👨‍💼 **review_id** | ID do avaliador |
+| 📝 **score** | Nota da avaliação |
+| 🏋️‍♂️ **weight** | Peso da avaliação (o que resulta em nota) |
+
+---
+
+## 🤖 Análises 
+
+| Tipo de Análise | Descrição |
+|------------------|------------|
+| 📊 **Gráfico de Barras** | Distribuição das avaliações por categoria |
+| 📈 **Tabela Dinâmica** | Média de Avaliação por Avaliador |
+| 💬 **Cartão** | Média da nota de apresentação do projeto |
+| 💬 **Cartão 2** | Média da nota de apresentação do stand |
+| 💬 **Cartão 3** | Média da nota de ideia usada |
+| 💬 **Cartão 4** | Média da nota de solução desenvolvida |
+| 💬 **Cartão 5** | Média geral das notas |
+| 💬 **Cartão 6** | Média geral das avaliações |
+| 💬 **Cartão 7** | Quantidade de visitas |
+
+### 🔍 Filtros Disponíveis:
+- Categoria
+- Avaliador por Categoria  
+
+> 💡**Nota:** Avalição e categoria são coisas diferentes, avaliação refere-se a classificação de 1 a 5 que o avaliador deve dar ao visitar o stand nas categorias requisitadas, nota é a avaliação aplicada com o peso que ela vale na nota.
+
+---
+
+## 🧮 Medidas Presentes
+
+| Medida | 
+|------------------|
+| ✅ **Média da nota de apresentação do projeto** |  
+| ⛺ **Média da nota de apresentação do stand** | 
+| 📝 **Média da nota de ideia usada** | 
+| 💬 **Média da nota de solução desenvolvida** |
+| 📶 **Média Geral das Notas** | 
+| 📈 **Média Geral das Avaliações** | 
+
+> 💡**Nota:** O peso das avaliações está registrado em cada linha da tabela, mas isso não faz muito sentido, já que todas as avaliações possuem o mesmo peso **0,25**, segundo o terceiro ano TECH. Além disso, essa estrutura dificultava principalmente o cálculo das médias por categoria no BI, pois exigia o uso constante do peso, que está presente **cada linha** . Por isso, o peso passou a ser tratado como uma regra de negócio fixa, sendo aplicado diretamente nas medidas, o que torna o modelo mais simples, consistente e fácil de manter.
 
 ---
 
@@ -72,7 +142,8 @@ O dashboard é dividido em **duas seções principais** — 🏢 **Empresa** e �
 ## 🔗 Links Importantes
 
 📐 [**Design no Figma**](https://www.figma.com/design/Qf8O3BndHIXPBJQ8RGorik/Calbon?node-id=1-2&p=f&t=KmgTbgTImpu7Fm83-0)  
-📊 [**Dashboard Público no Power BI**](https://app.powerbi.com/view?r=eyJrIjoiNWJiMWMzNmQtNGFjYi00MTU3LWI4NzgtNmRhY2RiMGQ5ZThkIiwidCI6ImIxNDhmMTRjLTIzOTctNDAyYy1hYjZhLTFiNDcxMTE3N2FjMCJ9)
+📊 [**Dashboard Calbon Público no Power BI**](https://app.powerbi.com/view?r=eyJrIjoiNWJiMWMzNmQtNGFjYi00MTU3LWI4NzgtNmRhY2RiMGQ5ZThkIiwidCI6ImIxNDhmMTRjLTIzOTctNDAyYy1hYjZhLTFiNDcxMTE3N2FjMCJ9)
+📶 [**Dashboard Feira Público no Power BI**](https://app.powerbi.com/view?r=eyJrIjoiNDZiMTE1MzAtN2VmYS00MDA0LWE5MTAtMzNiMDQxNzc5ZGUwIiwidCI6ImIxNDhmMTRjLTIzOTctNDAyYy1hYjZhLTFiNDcxMTE3N2FjMCJ9)
 
 ---
 
