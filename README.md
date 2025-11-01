@@ -76,6 +76,8 @@ O dashboard é dividido em **duas seções principais** — 🏢 **Empresa** e �
 O **Dashboard Feira** foi desenvolvido a partir dos dados da **api** de **mongo** desenvolvida pelo terceiro ano TECH.  
 Seu objetivo é **gerenciar e analisar informações relacionadas a notas, visitantes e avaliações**.  
 
+>💡 **Nota:** O dashboard feira é atualizado diariamente no horário de funcionamente da **EXPO TECH**
+
 ---
 
 ## 🗂️ Campos presentes na tabela - **`grades_df`**
