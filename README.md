@@ -124,7 +124,7 @@ Seu objetivo é **gerenciar e analisar informações relacionadas a notas, visit
 | 📶 **Média Geral das Notas** | 
 | 📈 **Média Geral das Avaliações** | 
 
-> 💡**Nota:** O peso das avaliações está registrado em cada linha da tabela, mas isso não faz muito sentido, já que todas as avaliações possuem o mesmo peso **0,25**, segundo o terceiro ano TECH. Além disso, essa estrutura dificultava principalmente o cálculo das médias por categoria no BI, pois exigia o uso constante do peso, que está presente **cada linha** . Por isso, o peso passou a ser tratado como uma regra de negócio fixa, sendo aplicado diretamente nas medidas, o que torna o modelo mais simples, consistente e fácil de manter.
+> 💡**Nota:** O peso das avaliações está registrado em cada linha da tabela, mas isso não faz muito sentido, já que todas as avaliações possuem o mesmo peso de **0,25**, segundo o terceiro ano TECH. Além disso, essa estrutura dificultava principalmente o cálculo das médias por categoria no BI, pois exigia o uso constante do peso, que está presente **cada linha** . Por isso, o peso passou a ser tratado como uma regra de negócio fixa, sendo aplicado diretamente nas medidas, o que torna o modelo mais simples, consistente e fácil de manter.
 
 ---
 
